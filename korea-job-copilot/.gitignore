@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+.env
+data/applications/*.md
+data/applications/log.csv

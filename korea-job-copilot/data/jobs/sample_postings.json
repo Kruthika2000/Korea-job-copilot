@@ -1,0 +1,20 @@
+[
+  {
+    "title": "Junior AI Engineer (Remote)",
+    "company": "Hanul Labs",
+    "url": "https://example.com/jobs/1",
+    "description": "We're looking for a junior AI engineer comfortable with Python, prompt engineering, and building RAG pipelines. Remote-friendly, no Korean language requirement, visa sponsorship not applicable since role is fully remote. You'll help build internal tools that use LLM agents to automate support workflows."
+  },
+  {
+    "title": "AI Platform Engineer",
+    "company": "Seoul FinTech Co",
+    "url": "https://example.com/jobs/2",
+    "description": "On-site role in Seoul. Requires TOPIK 4 or higher for client-facing communication in Korean. Strong background in APIs and agentic workflows required. 3+ years experience."
+  },
+  {
+    "title": "AI Tools Engineer (Remote, Korea-based team)",
+    "company": "Nomad AI",
+    "url": "https://example.com/jobs/3",
+    "description": "Remote role working with a Korea-based team. Conversational Korean helpful but not required. Looking for someone who has built agentic AI workflows and worked with GitHub Actions / CI automation. Entry-level candidates welcome."
+  }
+]
